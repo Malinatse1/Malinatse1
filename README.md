@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinatse1)](https://github.com/malinatse1/github-readme-stats)
  ### My technology stack is:
 
-| Java | Selenide | Gradle | Junit5 |  Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
-|:------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
-|![Java](icons/Java.png)| ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
+|          Java           |            Selenide             |           Gradle            |           Junit5            |            Jenkins            |               Allure Report               |            Allure Testops             |          IntelliJ IDEA          |
+|:-----------------------:|:-------------------------------:|:---------------------------:|:---------------------------:|:-----------------------------:|:-----------------------------------------:|:-------------------------------------:|:-------------------------------:|
+| ![Java](icons/Java.svg) | ![Selenide](icons/Selenide.svg) | ![Gradle](icons/Gradle.svg) | ![JUnit5](icons/JUnit5.svg) | ![Jenkins](icons/Jenkins.svg) | ![Allure Report](icons/Allure_Report.svg) | ![AllureTestOps](icons/Allure_TO.svg) | ![Intelij_IDEA](icons/Idea.svg) |
+
+|          Selenoid           |            Telegram             |           Browserstack            |           GitHub           
 
 ### You can find me on:
 
