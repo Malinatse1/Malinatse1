@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### You can find me on:
 
-+  Telegram - @malinatse
++  Telegram -[ @malinatse](https://t.me/malinatse)
 +  Email - natalya-maligon@mail.ru
 
 _Thank you for your attention_  
